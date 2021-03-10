@@ -1,8 +1,9 @@
-# AdEx Platform
+# Clearad Platform
 
-### This is the main UI of AdEx Network Platform, AdEx is trust-minimized solution for digital advertising that reduces ad fraud, improves ad budgets and protects user privacy.
+### This is the main UI of Clearad Network Platform, Clearad is trust-minimized solution for digital advertising that reduces ad fraud, improves ad budgets and protects user privacy.
 
-### It's built primarily with React.js, ethers.js and MATERIAL-UI and it interacts directly with Ethereum, [AdEx Market](https://github.com/AdExNetwork/adex-market), the [Validators](https://github.com/adexnetwork/adex-validator) and the AdEx Relayer.
+### It's built primarily with React.js, ethers.js and MATERIAL-UI and it interacts directly with Ethereum, [Clearad Market](https://github.com/
+Network/adex-market), the [Validators](https://github.com/adexnetwork/adex-validator) and the Clearad Relayer.
 
 ## Running in development mode
 
@@ -30,8 +31,13 @@ npm start
 * [React](https://github.com/facebook/react) - The web framework used
 * [Create React App](https://github.com/facebookincubator/create-react-app) - The project bootstrap
 * [MATERIAL-UI](https://material-ui.com/) - React components that implements Google Material Design
+* Adex Platform
 
 ### [Changelog](CHANGELOG.md)
 
 ### Pre-defining an account to log in with
-If you're logging in with an external wallet that controls many accounts (identities), you can append `?login-select-identity=<addr>` to the login link like so: `https://staging.adex.network/#/login/full?external=metamask&login-select-identity=0x033ed90e0fec3f3ea1c9b005c724d704501e0196`
+If you're logging in with an external wallet that controls many accounts (identities), you can append `?login-select-identity=<addr>` to the login link like so: `https://staging.
+
+
+
+.network/#/login/full?external=metamask&login-select-identity=0x033ed90e0fec3f3ea1c9b005c724d704501e0196`
